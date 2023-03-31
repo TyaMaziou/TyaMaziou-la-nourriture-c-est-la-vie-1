@@ -1,0 +1,25 @@
+p.Welcome{
+	color: #00E97C;
+	background-color: black;
+	background-size: 200px;
+	font-size: 150%;
+	padding-left: 550px ;
+}
+
+p.Intro{
+	color: violet;
+}
+
+h1.hello{
+	padding-top: 15px;
+	padding-left: 600px ;
+}
+
+body{
+	background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1d09svpZHsbwAH6Pi0vdkC_xgx8GXJ0GTHg&usqp=CAU") no-repeat;
+	background-size: 100%;
+}
+
+h3.bye{
+	font-size: 25px;
+}
